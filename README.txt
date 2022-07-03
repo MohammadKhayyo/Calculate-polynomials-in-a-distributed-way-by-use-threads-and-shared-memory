@@ -1,7 +1,5 @@
 Calculate polynomials in a distributed way by use threads and shared memory
 Authored by : Mohammad Khayyo
-211558895
-
 ===========Description=============
 
 -----in the first part of exercise -----
